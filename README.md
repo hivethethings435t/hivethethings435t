@@ -63,3 +63,5 @@ Innovation Without Borders.
 ---
 
 ⭐️ Follow my journey as I create businesses that impact the world.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hivethethings435t=anuraghazra&show_icons=true&theme=radical)
